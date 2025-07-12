@@ -22,3 +22,9 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Large ML model files (too large for GitHub)
+backend/model.pkl
+backend/expanded_flights.csv
+backend/final_project_ict.py
+backend/test_features.py
