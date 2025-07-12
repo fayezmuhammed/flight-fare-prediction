@@ -14,7 +14,13 @@ const Header = () => {
             <h1 className="text-xl font-bold gradient-text">FlightFare AI</h1>
           </div>
         </div>
-        <Button className="bg-orange-500 hover:bg-orange-600 text-white px-6">
+        <Button
+          className="bg-orange-500 hover:bg-orange-600 text-white px-6"
+          onClick={() => {
+            const el = document.getElementById("predict");
+            if (el) el.scrollIntoView({ behavior: "smooth" });
+          }}
+        >
           Get Started
         </Button>
       </div>

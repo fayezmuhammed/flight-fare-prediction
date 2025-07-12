@@ -76,6 +76,10 @@ const HeroSection = () => {
             <Button 
               size="lg" 
               className="relative bg-orange-500 hover:bg-orange-600 text-white px-8 py-4 text-lg rounded-xl shadow-lg hover:shadow-xl transition-all duration-300 transform hover:scale-105 overflow-hidden group"
+              onClick={() => {
+                const el = document.getElementById("predict");
+                if (el) el.scrollIntoView({ behavior: "smooth" });
+              }}
             >
               <div className="absolute inset-0 bg-gradient-to-r from-orange-400 to-orange-600 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
               <span className="relative flex items-center gap-2">
@@ -87,10 +91,14 @@ const HeroSection = () => {
               variant="outline" 
               size="lg" 
               className="relative border-2 border-sky-500 text-sky-600 hover:bg-sky-50 px-8 py-4 text-lg rounded-xl hover:shadow-lg transition-all duration-300 transform hover:scale-105 group"
+              onClick={() => {
+                const el = document.getElementById("predict");
+                if (el) el.scrollIntoView({ behavior: "smooth" });
+              }}
             >
               <span className="flex items-center gap-2">
                 <Globe className="h-5 w-5 group-hover:animate-spin" />
-                How It Works
+                Predict Now
               </span>
             </Button>
           </div>

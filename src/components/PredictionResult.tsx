@@ -124,7 +124,7 @@ const PredictionResult = ({ result, onNewPrediction }: PredictionResultProps) =>
                 </p>
                 <div className="flex items-center justify-center gap-2 text-sm text-gray-500">
                   <CheckCircle className="h-4 w-4 text-green-500" />
-                  <span>Powered by Advanced AI • Real-time Analysis • 95% Accuracy</span>
+                  <span>Powered by AI • 95% Accuracy</span>
                 </div>
               </div>
               
