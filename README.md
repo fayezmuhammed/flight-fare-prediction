@@ -4,7 +4,7 @@
 [Click to read](./abstract/abstract.md)
 
 ## 📁 Dataset
-Dataset is located in: [./dataset/flight_data.csv](./dataset/flight_data.csv)
+Dataset is located in: [here](./dataset/flight_data.csv)
 
 ## 🔧 Tech Stack
 - Python (Flask)
@@ -29,12 +29,3 @@ Dataset is located in: [./dataset/flight_data.csv](./dataset/flight_data.csv)
 
 ### Result Page
 ![Prediction Result](./screenshots/result-page.png)
-
-## 🗃️ Project Structure
-
-- **Frontend**: `frontend/`
-- **Backend**: `backend/`
-- **Dataset**: `dataset/flight_data.csv`
-- **Abstract**: `abstract/abstract.md`
-- **Screenshots**: `screenshots/`
-
