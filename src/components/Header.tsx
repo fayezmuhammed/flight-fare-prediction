@@ -11,7 +11,7 @@ const Header = () => {
             <Plane className="h-6 w-6 text-white" />
           </div>
           <div>
-            <h1 className="text-xl font-bold gradient-text">FlightFare AI</h1>
+            <h1 className="text-xl font-bold gradient-text">Farely</h1>
           </div>
         </div>
         <Button
