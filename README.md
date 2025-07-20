@@ -4,7 +4,7 @@
 [Click to read](./abstract/abstract.md)
 
 ## 📁 Dataset
-Dataset is located in: [./dataset/flight_data.csv](./dataset/flight_data.csv)
+Dataset is located in: [here](./dataset/flight_data.csv)
 
 ## 🔧 Tech Stack
 - Python (Flask)
@@ -30,11 +30,11 @@ Dataset is located in: [./dataset/flight_data.csv](./dataset/flight_data.csv)
 ### Result Page
 ![Prediction Result](./screenshots/result-page.png)
 
-## 🗃️ Project Structure
+## Model Training
+The machine learning model for this project was trained and evaluated in a Google Colab notebook. You can view the complete data analysis, model training, and evaluation process here:
+[Google Collab link](https://colab.research.google.com/drive/1OBWzqliYReAa0ditK3EpB4tgT-rhtFvw?usp=sharing)
 
-- **Frontend**: `frontend/`
-- **Backend**: `backend/`
-- **Dataset**: `dataset/flight_data.csv`
-- **Abstract**: `abstract/abstract.md`
-- **Screenshots**: `screenshots/`
+## Developed by
+[Antony I Tom](https://www.linkedin.com/in/antony-isaac-tom-1064452b2/), [Fayez Muhammed](https://www.linkedin.com/in/fayezmuhammed/), [Milan Martin](https://www.linkedin.com/in/milanmartin142/), [Sivaprasad S](https://www.linkedin.com/in/sivaprasad-s22/)
+
 
