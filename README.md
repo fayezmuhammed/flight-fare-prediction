@@ -35,6 +35,6 @@ The machine learning model for this project was trained and evaluated in a Googl
 [Google Collab link](https://colab.research.google.com/drive/1OBWzqliYReAa0ditK3EpB4tgT-rhtFvw?usp=sharing)
 
 ## Developed by
-Antony I Tom, Fayez Muhammed, Milan Martin, Sivaprasad S
+[Antony I Tom](https://www.linkedin.com/in/antony-isaac-tom-1064452b2/), [Fayez Muhammed](https://www.linkedin.com/in/fayezmuhammed/), [Milan Martin](https://www.linkedin.com/in/milanmartin142/), [Sivaprasad S](https://www.linkedin.com/in/sivaprasad-s22/)
 
 
